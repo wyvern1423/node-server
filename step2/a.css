@@ -12,12 +12,11 @@ a {
   clear: both;
 }
 
-/*上面不要看*/
 .topNavBar {
 }
 
 .topNavBar .logo {
-  font-family: "Hiragino Kaku Gothic Std";
+  font-family: "微软雅黑 Light";
   font-size: 22px;
   padding-top: 1px;
 }
